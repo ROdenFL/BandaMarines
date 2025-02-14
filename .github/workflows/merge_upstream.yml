@@ -33,7 +33,7 @@ jobs:
       - name: Run the script
         env:
           GITHUB_TOKEN: ${{ env.GH_TOKEN }}
-          TARGET_REPO: 'ss220club/BandaMarines'
+          TARGET_REPO: 'ROdenFL/BandaMarines'
           TARGET_BRANCH: 'master'
           UPSTREAM_REPO: 'cmss13-devs/cmss13'
           UPSTREAM_BRANCH: 'master'
